@@ -1,6 +1,6 @@
 {
   "name": "mk-deconstruct-base64",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "base64 deconstruction",
   "main": "index.js",
   "repository": "https://github.com/mkastner/mk-deconstruct-base64.git",
